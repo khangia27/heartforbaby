@@ -29,8 +29,8 @@ body {
 
 .heart {
       position: relative;
-      width: 420px;
-      height: 420px;
+      width: 320px;
+      height: 320px;
       background : #FF3366;
       transform:rotate(45deg);
       box-shadow: 0 0 50px #FF3366;
